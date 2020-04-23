@@ -1,4 +1,5 @@
-<img src="https://camo.githubusercontent.com/31bf0517ebefea00f90aeb321eb7776908f8f5df/68747470733a2f2f6d616c77617265642e636f6d2f77702d636f6e74656e742f75706c6f6164732f323031382f30392f62796f625f626c61636b2d30362e706e67" alt="logo" data-canonical-src="file:///home/theeyeofcyber/Downloads/Multimedia_(159).jpg" style="max-width:100%;">
+<img src="[![Multimedia-159.jpg](https://i.postimg.cc/8535yfXn/Multimedia-159.jpg)](https://postimg.cc/5YBbyyVw)7" alt="logo" data-canonical-src="file:///home/theeyeofcyber/Downloads/Multimedia_(159).jpg" style="max-width:100%;">
+
 # ★ Magnifier . version 1.0 | 
 
    Author: Magnifier @ The Eye OF Cyber
