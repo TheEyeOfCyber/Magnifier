@@ -1,4 +1,4 @@
-<img src="https://postimg.cc/5YBbyyVw" alt="logo" data-canonical-src="file:///home/theeyeofcyber/Downloads/Multimedia_(159).jpg" style="max-width:100%;">
+<img src="https://postimg.cc/5YBbyyVw" alt="logo" data-canonical-src="https://i.postimg.cc/8535yfXn/Multimedia-159.jpg" style="max-width:100%;">
 
 # ★ Magnifier . version 1.0 | 
 
