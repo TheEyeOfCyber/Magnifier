@@ -109,7 +109,7 @@ def ext():
            exit()
     else:
            clear()
-           print banner
+           print (banner)
            menu()
            select()
 
