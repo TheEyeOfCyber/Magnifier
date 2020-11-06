@@ -75,7 +75,7 @@ banner = '''
 ==[[ .:: Version: 1.0 ::.]]==\033[96m
 ==[[ .:: Author : Humayun Ali Khan @ Black Tiger::.]]==\033[92m
 '''
-print (banner)
+print banner
 def menu():
    print'''
 \033[91m 1 \033[96m} \033[91m ==\033[93m> \033[92m DNS Lookup 
