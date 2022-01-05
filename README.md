@@ -1,8 +1,8 @@
-<img src="https://postimg.cc/5YBbyyVw" alt="logo" data-canonical-src="https://i.postimg.cc/8535yfXn/Multimedia-159.jpg" style="max-width:100%;">
+<img src="https://postimg.cc/XXBDSwWJ" alt="logo" data-canonical-src="https://i.postimg.cc/8535yfXn/Multimedia-159.jpg" style="max-width:100%;">
 
-# ★ Magnifier . version 1.0 | 
+# ★ Magnifier.version 1.0 
 
-   Author: Magnifier @ The Eye OF Cyber
+Author: The Eye OF Cyber
 ## ★ Description:
 
 Magnifier is a simple python script to Information Gathering 
