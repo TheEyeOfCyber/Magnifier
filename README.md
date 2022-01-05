@@ -1,4 +1,4 @@
-<img src="https://postimg.cc/XXBDSwWJ" alt="logo" data-canonical-src="https://i.postimg.cc/8535yfXn/Multimedia-159.jpg" style="max-width:100%;">
+<img src="https://i.postimg.cc/RCgrtRbc/20211220-021653-0000-removebg-preview.png" alt="logo" data-canonical-src="https://i.postimg.cc/RCgrtRbc/20211220-021653-0000-removebg-preview.png" style="max-width:100%;">
 
 # ★ Magnifier.version 1.0 
 
