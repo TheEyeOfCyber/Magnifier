@@ -1,7 +1,7 @@
 
-  name: infosploit
+  name: Magnifier 
   version: '1.0' 
-  summary: Infosploit is an information gathing tool to gather info on IP or domains.
+  summary: Magnifier is an information gathing tool to gather info on IP or domains.
   description: |
     Infosploit is an information gathering tool used to gain info on an IP adrees or domain. Info gathered cand be tracerutes, geolocations, and even dns lookup.
 
