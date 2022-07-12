@@ -1,4 +1,4 @@
-<h1 align="center"> Magnifier </h1> <br>
+<h1 align="center"> Magnifier  </h1> <br>
 <p align="center">
   <a href="https://theeyeofcyber.github.io/">
     <img alt="GitPoint" title="GitPoint" src="https://i.postimg.cc/RCgrtRbc/20211220-021653-0000-removebg-preview.png" width="450">
